@@ -1,0 +1,89 @@
+[17:38:30.360] [Start] 程序版本：Release 2.3.0（257）
+[17:38:30.361] [Start] 识别码：49DF-726D-7022-BB34
+[17:38:30.361] [Start] 程序路径：C:\Users\lq667\Desktop\1.19.2整合包\
+[17:38:30.366] [Start] 第一阶段加载用时：47 ms
+[17:38:30.440] [Start] 版本号从 260 降低到 257
+[17:38:30.476] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[17:38:30.476] [Start] 第二阶段加载用时：94 ms
+[17:38:30.486] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[17:38:30.654] [Start] 加载 DLL：Json
+[17:38:30.654] [System] 获取资源：Json
+[17:38:30.710] [Java] 缓存中有 8 个可用的 Java
+[17:38:30.730] [System] 窗口已置顶，位置：(201.333333333333, 110), 810 x 500
+[17:38:30.734] [Animation] 动画线程开始
+[17:38:30.734] [Start] 第三阶段加载用时：94 ms
+[17:38:30.740] [Launch] Minecraft 文件夹：C:\Users\lq667\Desktop\1.19.2整合包\.minecraft\
+[17:38:30.781] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[17:38:30.785] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[17:38:30.802] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\lq667\Desktop\1.19.2整合包\.minecraft\versions\1.19.2-Fabric 0.14.9\
+[17:38:30.805] [Loader] 加载器 登录 状态改变：Loading
+[17:38:30.807] [Launch] 登录线程已启动
+[17:38:30.807] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[17:38:30.808] [Launch] 登录方式：微软正版（YYDS_QAQ）
+[17:38:30.808] [Launch] 开始微软登录步骤 2（刷新登录）
+[17:38:30.812] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[17:38:30.814] [Skin] 载入头像成功：Loader Skin Ms
+[17:38:30.949] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[17:38:30.950] [Loader] 加载器 PCL2 服务 状态改变：Loading
+[17:38:30.951] [Server] 正在连接到 PCL2 服务器
+[17:38:30.953] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[17:38:30.955] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1662543511-1a86d29c-0-635dce974425a7e4703f8bec2c21e668，最大超时 10000
+[17:38:31.004] [Server] 服务器公告：76|262|260|4，无需更新
+[17:38:31.008] [Loader] 加载器 PCL2 服务 状态改变：Finished
+[17:38:31.380] [System] DPI：144，工作区尺寸：1820 x 1080，系统版本：10.0.19044.0
+[17:38:31.480] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[17:38:31.753] [Launch] 开始微软登录步骤 3
+[17:38:31.808] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[17:38:32.067] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[17:38:32.179] [Control] 按下单选按钮：离线
+[17:38:32.314] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[17:38:32.317] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[17:38:32.329] [Skin] 载入头像成功：Loader Skin Legacy
+[17:38:32.581] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[17:38:33.340] [Launch] 开始微软登录步骤 4
+[17:38:33.342] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[17:38:33.608] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[17:38:34.120] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[17:38:34.880] [Launch] 开始微软登录步骤 5
+[17:38:34.883] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[17:38:35.145] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[17:38:35.315] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[17:38:35.316] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[17:38:35.317] [Skin] 载入头像成功：Loader Skin Legacy
+[17:38:35.896] [Launch] 开始微软登录步骤 6
+[17:38:35.896] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[17:38:36.147] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[17:38:36.488] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[17:38:36.488] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[17:38:36.490] [Skin] 载入头像成功：Loader Skin Legacy
+[17:38:36.649] [Launch] 微软登录完成
+[17:38:36.649] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[17:38:36.651] [Loader] 加载器 登录 状态改变：Finished
+[17:38:36.835] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[17:38:36.835] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[17:38:36.836] [Skin] 载入头像成功：Loader Skin Legacy
+[17:38:37.095] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[17:38:37.095] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[17:38:37.096] [Skin] 载入头像成功：Loader Skin Legacy
+[17:38:39.691] [Control] 按下单选按钮：微软
+[17:38:44.251] [Control] 按下按钮：版本设置
+[17:38:44.318] [Control] 切换主要页面：VersionSetup, 0
+[17:38:46.444] [Control] 按下图标按钮：BtnTitleInner
+[17:38:46.445] [Control] 切换主要页面：Launch, -1
+[17:38:47.213] [Control] 按下按钮：版本选择
+[17:38:47.223] [Control] 切换主要页面：VersionSelect, 0
+[17:38:47.347] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[17:38:47.347] [Minecraft] 启动按钮：正在加载 Minecraft 版本
+[17:38:47.355] [Setup] 当前选择的 Minecraft 版本：1.19.2-Fabric 0.14.9
+[17:38:47.355] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\lq667\Desktop\1.19.2整合包\.minecraft\versions\1.19.2-Fabric 0.14.9\
+[17:38:47.370] [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > C:\Users\lq667\Desktop\1.19.2整合包\.minecraft\
+[17:38:47.371] [Minecraft] 有效的 Minecraft 文件夹：官方启动器文件夹 > C:\Users\lq667\AppData\Roaming\.minecraft\
+[17:38:47.420] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[17:38:50.078] [Control] 切换主要页面：Launch, -1
+[17:38:50.078] [Control] 按下单击列表项：1.19.2-Fabric 0.14.9
+[17:38:50.206] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\lq667\Desktop\1.19.2整合包\.minecraft\versions\1.19.2-Fabric 0.14.9\
+[17:38:52.915] [Control] 按下图标按钮：BtnExit
+[17:38:56.164] [Control] 按下单选按钮：离线
+[17:38:58.148] [Control] 按下图标按钮：BtnTitleClose
+[17:38:58.149] [System] 收到关闭指令
+[17:38:58.406] [System] 程序已退出，返回值：Success

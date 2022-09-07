@@ -1,0 +1,136 @@
+[17:25:15.582] [Start] 程序版本：Release 2.3.0（257）
+[17:25:15.585] [Start] 识别码：49DF-726D-7022-BB34
+[17:25:15.585] [Start] 程序路径：C:\Users\lq667\Desktop\1.19.2整合包\
+[17:25:15.593] [Start] 第一阶段加载用时：63 ms
+[17:25:15.682] [Start] 版本号从 260 降低到 257
+[17:25:15.728] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[17:25:15.729] [Start] 第二阶段加载用时：140 ms
+[17:25:15.758] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[17:25:16.009] [Start] 加载 DLL：Json
+[17:25:16.009] [System] 获取资源：Json
+[17:25:16.145] [Java] 缓存中有 8 个可用的 Java
+[17:25:16.174] [System] 窗口已置顶，位置：(201.333333333333, 110), 810 x 500
+[17:25:16.178] [Animation] 动画线程开始
+[17:25:16.179] [Start] 第三阶段加载用时：188 ms
+[17:25:16.186] [Launch] 没有已储存的 Minecraft 文件夹
+[17:25:16.187] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[17:25:16.190] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[17:25:16.203] [Setup] 当前选择的 Minecraft 文件夹：C:\Users\lq667\AppData\Roaming\.minecraft\
+[17:25:16.203] [Launch] Minecraft 文件夹：C:\Users\lq667\AppData\Roaming\.minecraft\
+[17:25:16.203] [Launch] Minecraft 版本无效，没有有效版本
+[17:25:16.211] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[17:25:16.222] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[17:25:16.223] [Setup] 当前选择的 Minecraft 版本：1.19.2-Fabric 0.14.9
+[17:25:16.223] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\lq667\AppData\Roaming\.minecraft\versions\1.19.2-Fabric 0.14.9\
+[17:25:16.223] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[17:25:16.232] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[17:25:16.233] [Launch] 自动选择 Minecraft 版本：C:\Users\lq667\AppData\Roaming\.minecraft\versions\1.19.2-Fabric 0.14.9\
+[17:25:16.253] [Minecraft] 启动按钮：正在加载 Minecraft 版本
+[17:25:16.259] [Skin] 载入头像成功：Loader Skin Ms
+[17:25:16.260] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\lq667\AppData\Roaming\.minecraft\versions\1.19.2-Fabric 0.14.9\
+[17:25:16.263] [Loader] 加载器 登录 状态改变：Loading
+[17:25:16.264] [Launch] 登录线程已启动
+[17:25:16.264] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[17:25:16.267] [Launch] 登录方式：微软正版（YYDS_QAQ）
+[17:25:16.267] [Launch] 开始微软登录步骤 2（刷新登录）
+[17:25:16.272] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[17:25:16.392] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[17:25:16.393] [Loader] 加载器 PCL2 服务 状态改变：Loading
+[17:25:16.394] [Server] 正在连接到 PCL2 服务器
+[17:25:16.396] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[17:25:16.402] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1662542716-24ae14d5-0-6c09786ba1bced3b80be2fff92d6791e，最大超时 10000
+[17:25:16.457] [Server] 服务器公告：76|262|260|4，无需更新
+[17:25:16.475] [Loader] 加载器 PCL2 服务 状态改变：Finished
+[17:25:16.792] [System] DPI：144，工作区尺寸：1820 x 1080，系统版本：10.0.19044.0
+[17:25:16.916] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[17:25:17.085] [Launch] 开始微软登录步骤 3
+[17:25:17.090] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[17:25:17.350] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[17:25:17.856] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[17:25:18.616] [Launch] 开始微软登录步骤 4
+[17:25:18.616] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[17:25:18.881] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[17:25:19.393] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[17:25:20.154] [Launch] 开始微软登录步骤 5
+[17:25:20.154] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[17:25:20.247] [Control] 按下单选按钮：更多
+[17:25:20.289] [Loader] 加载器 Help Page 状态改变：Loading
+[17:25:20.293] [Help] 正在检查内置帮助文件
+[17:25:20.294] [Help] 已扫描 PCL 文件夹下的帮助文件，目前总计 0 条
+[17:25:20.294] [Control] 切换主要页面：Other, -1
+[17:25:20.298] [Help] 已扫描缓存文件夹下的帮助文件，目前总计 33 条
+[17:25:20.421] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[17:25:20.633] [Loader] 加载器 Help Page 状态改变：Finished
+[17:25:21.148] [Launch] 开始微软登录步骤 6
+[17:25:21.148] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[17:25:21.411] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[17:25:21.925] [Launch] 微软登录完成
+[17:25:21.925] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[17:25:21.929] [Loader] 加载器 登录 状态改变：Finished
+[17:25:23.159] [Control] 按下单选列表项：关于与鸣谢
+[17:25:24.377] [Control] 按下单选按钮：设置
+[17:25:24.430] [Control] 切换主要页面：Setup, -1
+[17:25:24.572] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[17:25:24.574] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[17:25:27.343] [Control] 按下单选列表项：个性化
+[17:25:31.199] [Control] 按下单选列表项：启动器
+[17:25:35.544] [Control] 展开卡片：调试选项
+[17:25:54.961] [Control] 按下单选列表项：联机
+[17:25:55.817] [Control] 按下单选列表项：启动器
+[17:26:03.706] [Control] 按下单选按钮：启动
+[17:26:03.707] [Control] 切换主要页面：Launch, -1
+[17:26:06.040] [Report] FPS 0, 动画 7, 下载中 0（0 B/s）
+[17:26:07.009] [Control] 按下按钮：版本选择
+[17:26:07.032] [Control] 切换主要页面：VersionSelect, 0
+[17:26:07.192] [Minecraft] 有效的 Minecraft 文件夹：官方启动器文件夹 > C:\Users\lq667\AppData\Roaming\.minecraft\
+[17:26:11.072] [Setup] 当前选择的 Minecraft 文件夹：C:\Users\lq667\Desktop\1.19.2整合包\.minecraft\
+[17:26:11.073] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[17:26:11.073] [Control] 按下单击列表项：新建 .minecraft 文件夹
+[17:26:11.078] [Minecraft] 已创建 launcher_profiles.json：C:\Users\lq667\Desktop\1.19.2整合包\.minecraft\
+[17:26:11.081] [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > C:\Users\lq667\Desktop\1.19.2整合包\.minecraft\
+[17:26:11.084] [Minecraft] 有效的 Minecraft 文件夹：官方启动器文件夹 > C:\Users\lq667\AppData\Roaming\.minecraft\
+[17:26:11.087] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[17:26:11.088] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[17:26:11.089] [Setup] 当前选择的 Minecraft 版本：
+[17:26:11.093] [Minecraft] 未找到可用 Minecraft 版本
+[17:26:11.134] [UI] 弹出提示：新建 .minecraft 文件夹成功！
+[17:26:11.259] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[17:26:18.915] [Animation] 两个动画帧间隔 250 ms
+[17:26:26.675] [Control] 按下图标按钮
+[17:26:28.215] [Control] 普通弹窗：删除警告
+你确定要删除这个文件夹吗？
+这会导致该文件夹中的所有存档与其他文件永久消失，且不可恢复！
+[17:26:30.003] [Control] 按下按钮：取消
+[17:26:30.003] [Control] 普通弹框返回：1
+[17:26:31.690] [Control] 按下图标按钮
+[17:26:33.305] [Control] 普通弹窗：删除警告
+你确定要删除这个文件夹吗？
+这会导致该文件夹中的所有存档与其他文件永久消失，且不可恢复！
+[17:26:34.603] [Control] 按下按钮：继续
+[17:26:34.604] [Control] 普通弹框返回：2
+[17:26:35.046] [Control] 普通弹窗：删除警告
+删除这个文件夹会导致该文件夹中的所有文件永久消失，且不可恢复！
+这是最后一次警告！
+[17:26:36.843] [Control] 按下按钮：删除
+[17:26:36.844] [Control] 普通弹框返回：1
+[17:26:36.906] [UI] 弹出提示：正在删除文件夹 官方启动器文件夹！
+[17:26:38.090] 删除文件夹 官方启动器文件夹 失败：PCL2 权限不足，请尝试右键 PCL2，选择以管理员身份运行
+Caused By: 对路径“C:\Users\lq667\AppData\Roaming\.minecraft\cache\java\java-runtime-beta\windows-x64\java-runtime-beta\bin\awt.dll”的访问被拒绝。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.File.InternalDelete(String path, Boolean checkHost)
+   在 System.IO.File.Delete(String path)
+   在 PCL.ModBase.DeleteDirectory(String Path, Boolean IgnoreIssue)
+   在 PCL.ModBase.DeleteDirectory(String Path, Boolean IgnoreIssue)
+   在 PCL.ModBase.DeleteDirectory(String Path, Boolean IgnoreIssue)
+   在 PCL.ModBase.DeleteDirectory(String Path, Boolean IgnoreIssue)
+   在 PCL.ModBase.DeleteDirectory(String Path, Boolean IgnoreIssue)
+   在 PCL.ModBase.DeleteDirectory(String Path, Boolean IgnoreIssue)
+   在 PCL.ModBase.DeleteDirectory(String Path, Boolean IgnoreIssue)
+   在 PCL.PageSelectLeft._Closure$__10-0._Lambda$__0()
+错误类型：System.UnauthorizedAccessException
+[17:26:38.090] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[17:26:38.095] [Minecraft] 已创建 launcher_profiles.json：C:\Users\lq667\AppData\Roaming\.minecraft\
+[17:26:38.095] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[17:26:44.068] [Control] 按下图标按钮：BtnTitleClose
+[17:26:44.069] [System] 收到关闭指令
+[17:26:44.334] [System] 程序已退出，返回值：Success
